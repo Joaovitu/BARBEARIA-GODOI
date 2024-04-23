@@ -1,8 +1,14 @@
-<h1> {text-alagn: center;
+#banner {
+  width: 100%;
+}
+.titulo-principal {
+  padding-left: 20px;
 }
 p {
-  test-aling: center
+  text-align: center;
 }
-#missao{
-  font-size; 28px
+
+#missao {
+  font-size: 28px;
+
 }

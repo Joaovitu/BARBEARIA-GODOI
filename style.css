@@ -1,9 +1,20 @@
 #banner {
   width: 100%;
 }
-.titulo-principal {
-  padding-left: 20px;
+
+.principal{
+  background-color: #CCCCCC;
+  padding: 30px;
 }
+
+.titulo-principal {
+  padding-left: 30px;
+}
+
+.texto-centralizado {
+  text-align: center;
+}
+
 p {
   text-align: center;
 }
@@ -11,4 +22,15 @@ p {
 #missao {
   font-size: 28px;
 
+}
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+
+.imagem-beneficios{
+  width: 50%
 }
